@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798542446740",
+    "project_id": "login-database-48e83",
+    "storage_bucket": "login-database-48e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798542446740:android:e0467ec17437ddc69a3481",
+        "android_client_info": {
+          "package_name": "com.example.databaseuiux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798542446740-ru3f39j6b4oei1rj0p22pn90n9ttct6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEFDtgfYEcc5Z1G8jP-D_CrKNDZC7UqpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798542446740-ru3f39j6b4oei1rj0p22pn90n9ttct6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
